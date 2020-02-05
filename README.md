@@ -53,8 +53,8 @@ Steps to Execute through Command line:
 2. mvn clean install
 3. mvn test -Dbrowser="chrome" -Dcucumber.options="./src/test/java/com/hellofresh/feature/*" -Dcucumber.options="--tags @UI,@API"
     -Dbrowser supported is chrome, firefox and iexplorer
-	-Dcucumber.options as path of Feature file
-	-Dcucumber.options="--tags is used to group set of test cases or test suites
+    -Dcucumber.options as path of Feature file
+    -Dcucumber.options="--tags is used to group set of test cases or test suites
 
 Report :
 
