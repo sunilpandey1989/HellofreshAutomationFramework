@@ -1,0 +1,13 @@
+{
+  "bookingdates": {
+    "checkin": "2020-02-06",
+    "checkout": "2020-02-09"
+  },
+  "bookingid": 4,
+  "depositpaid": true,
+  "email": "abc@demo1.com",
+  "firstname": "Sunil",
+  "lastname": "Pandey",
+  "phone": "09898989898",
+  "roomid": 4
+}
